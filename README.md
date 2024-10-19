@@ -15,7 +15,8 @@ This project implements an interactive, fixed-position navigation menu using HTM
 ## Setup and Installation
 ### Clone the Project
 ``` bash
-https://github.com/sharlinaik/PRODIGY_WD_01.git
+ git clone https://github.com/sharlinaik/PRODIGY_WD_01.git
+ cd PRODIGY_WD_01
 ```
 
 ## Screenshots
