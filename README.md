@@ -19,11 +19,7 @@ This project implements an interactive, fixed-position navigation menu using HTM
  cd PRODIGY_WD_01
 ```
 
-## Screenshots
-<div align="center">
-    <img width="500" height="250" src="Screen1.png"> &nbsp;&nbsp; 
-    <img width="500" height="250" src="Screen2.png"> 
-</div>
+
 
 
 
