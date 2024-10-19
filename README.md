@@ -13,9 +13,10 @@ This project implements an interactive, fixed-position navigation menu using HTM
 - **JavaScript**: For adding interactivity like changing the navbar's style when scrolling.
 
 ## Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+### Clone the Project
+``` bash
+https://github.com/sharlinaik/PRODIGY_WD_01.git
+```
 
 ## Screenshots
 <div align="center">
@@ -23,12 +24,7 @@ This project implements an interactive, fixed-position navigation menu using HTM
     <img width="500" height="250" src="Screen2.png"> 
 </div>
 
-## Installation
-### Clone the Project
-``` bash
-git clone https://github.com/sharlinaik/Chat-App.git
-cd Quiz-App
-```
+
 
 
 
